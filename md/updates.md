@@ -1,3 +1,3 @@
 # Updates
 
-- **2026-01-04** — New website scaffold is online (as you see). We'll be shaping up content in the next days.
+- **Website** As you see, we got a website scaffold up, courtesy Martin and Claude with many a shoulder to step on by Pablo. We'll be building out contents starting these days. [2026-01-05]
