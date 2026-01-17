@@ -1,3 +1,3 @@
 # Library
 
-[List of Texts](library-list-of-texts.html)
+Library in construction.
