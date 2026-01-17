@@ -5,4 +5,4 @@
 [Scott Morris](scott-morris.md)
 [Stephen Demeulenaere](stephen-demeulenaere.md)
 [Economic Space Agency](-o-ecsa.md)
-[Crypto Leftists](crypto-leftists.md)
+[Crypto Leftists](-p-crypto-leftists.md)
