@@ -1,6 +1,7 @@
 # Protocols for Postcapitalist Expression
 
 Collective reading of ECSA's *Protocols for Postcapitalist Expression*.
+
 ![[ecsa-protocols.png]]
 
 #### Partners

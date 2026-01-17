@@ -1,4 +1,4 @@
 # A4CT
 
 #### Joint activities
-[Studio Redukt](studio-redukt.md)
+[Designable Eonomies](-a-designable-economies)

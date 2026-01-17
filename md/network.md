@@ -1,6 +1,6 @@
 # Network
 
-Folks and orgs we're working with: 
+#### Partners
 [Economic Space Agency](-p-ecsa.md)
 [Scott Morris](scott-morris.md)
 [Crypto Leftists](-p-crypto-leftists.md)
