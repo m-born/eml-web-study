@@ -3,4 +3,4 @@ The Finnish Left Alliance's festival for politics and culture.
 https://kaannefestival.fi
 
 #### Partners
-[Economic Space Agency](-o-ecsa.md)
+[Economic Space Agency](-p-ecsa.md)

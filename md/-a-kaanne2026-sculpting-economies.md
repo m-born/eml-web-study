@@ -3,7 +3,7 @@
 Sunday, 18 January 2026
 
 #### Partners
-Co-organisers: [Economic Space Agency](-o-ecsa.md)
-Commentator: [Jussi Parikka](jussi-parikka)
-Commentator: [Anni Pokela](anni-pokela)
+Co-organisers: [Economic Space Agency](economicspace.agency)
+Commentator: [Jussi Parikka](https://jussiparikka.net/)
+Commentator: [Anni Pokela](https://www.annipokela.com/)
 Host: [Käänne Festival for Politics and Culture](https://kaannefestival.fi/en)
